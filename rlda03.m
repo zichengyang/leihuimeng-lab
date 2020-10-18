@@ -1,5 +1,6 @@
 %%%%%%%%%%%%%%%%%%%
 %% G.M. WU @CCMU
+%%%%%%%%%%%%%%%%
 %% Function:
 %% analysis four cases in the spercific training phase;
 %% Version: 0.1-7/20/2018-GM-initial version
